@@ -3884,6 +3884,7 @@ align-items: center;    display: flex;
     width: 300px;
     color: #000;
     font-family: myFirstFont;
+    display: block;
 
   }
   
